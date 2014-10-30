@@ -13,6 +13,8 @@
 		9EB49E2F19FD5B6C00A2ABBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EB49E2E19FD5B6C00A2ABBE /* Images.xcassets */; };
 		9EB49E3219FD5B6C00A2ABBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EB49E3019FD5B6C00A2ABBE /* LaunchScreen.xib */; };
 		9EB49E3E19FD5B6D00A2ABBE /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EB49E3D19FD5B6D00A2ABBE /* PostcardTests.swift */; };
+		9EB49E4819FEBFF800A2ABBE /* _IGP1015.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9EB49E4719FEBFF800A2ABBE /* _IGP1015.jpg */; };
+		9EB49E4C19FFEDC900A2ABBE /* _IGP1000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9EB49E4B19FFEDC900A2ABBE /* _IGP1000.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		9EB49E3719FD5B6C00A2ABBE /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EB49E3C19FD5B6D00A2ABBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9EB49E3D19FD5B6D00A2ABBE /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		9EB49E4719FEBFF800A2ABBE /* _IGP1015.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = _IGP1015.jpg; sourceTree = "<group>"; };
+		9EB49E4B19FFEDC900A2ABBE /* _IGP1000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = _IGP1000.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		9EB49E2519FD5B6C00A2ABBE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9EB49E4B19FFEDC900A2ABBE /* _IGP1000.jpg */,
+				9EB49E4719FEBFF800A2ABBE /* _IGP1015.jpg */,
 				9EB49E2619FD5B6C00A2ABBE /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EB49E4C19FFEDC900A2ABBE /* _IGP1000.jpg in Resources */,
 				9EB49E2D19FD5B6C00A2ABBE /* Main.storyboard in Resources */,
+				9EB49E4819FEBFF800A2ABBE /* _IGP1015.jpg in Resources */,
 				9EB49E3219FD5B6C00A2ABBE /* LaunchScreen.xib in Resources */,
 				9EB49E2F19FD5B6C00A2ABBE /* Images.xcassets in Resources */,
 			);
